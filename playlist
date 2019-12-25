@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" group-title="UK" radio="true",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK" radio="true",BBC Radio 1 [Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
