@@ -1,10 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News (EN)",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/dd/cb/3476/c175.png" group-title="UK" radio="true",BBC World Service
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW (EN)
+http://43.224.120.99:8080/dwenglish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (EN)
+http://45.126.83.51/qwr9ew/s/s15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio-service-information.api.bbci.co.uk/logos/bbc_world_service/1920x1080.png" group-title="UK" radio="true",BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK" radio="true",BBC Radio 1 [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK" radio="true",BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK" radio="true",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK" radio="true",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK" radio="true",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" group-title="UK" radio="true",Absolute Radio - Classic Rock
+http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="ARGENTINA" radio="true",Metro 95.1
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="ARGENTINA" radio="true",Metro 95.1
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="CANADA" radio="true",rockXradio
+http://158.69.227.214:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mm.aiircdn.com/593/5ca5f1810e511.png" group-title="UK" radio="true",Classic Hits (UK)
+http://ample-07.radiojar.com:80/xgbg3anx3zquv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="SWITZERLAND",Radio Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="ITALY" radio="true",Venice Classic Radio
+http://109.123.116.202:8020/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="UK" radio="true",Classic FM
+http://media-ice.musicradio.com:80/ClassicFMMP3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5Hy67ki.png" group-title="POLAND" radio="true",Polskie Radio - Classic Rock
+http://mp3.polskieradio.pl:8460
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="TURKEY" radio="true",ITU Radio Rock
+http://160.75.86.29:8088/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="TURKEY" radio="true",ITU Radio Classical
+http://160.75.86.29:8088/stream/5/
