@@ -612,47 +612,47 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="Pluto TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
-#EXTINF:-1 tvg-logo="http://radio-service-information.api.bbci.co.uk/logos/bbc_world_service/1920x1080.png" group-title="UK" radio="true",BBC World Service
+#EXTINF:-1 tvg-logo="http://radio-service-information.api.bbci.co.uk/logos/bbc_world_service/1920x1080.png" group-title="Radio UK" radio="true",BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK" radio="true",BBC Radio 1
+#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="Radio UK" radio="true",BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK" radio="true",BBC Radio 2
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="Radio UK" radio="true",BBC Radio 2
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK" radio="true",BBC Radio 3
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="Radio UK" radio="true",BBC Radio 3
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
-#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK" radio="true",BBC Radio 4
+#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="Radio UK" radio="true",BBC Radio 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b5/04/b504c34f126273c958da645d27fcbeda.jpg" group-title="UK" radio="true",Absolute Radio - Classic Rock
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b5/04/b504c34f126273c958da645d27fcbeda.jpg" group-title="Radio UK" radio="true",Absolute Radio - Classic Rock
 http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
 
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/593/5ca5f1810e511.png" group-title="UK" radio="true",Classic Hits (UK)
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/593/5ca5f1810e511.png" group-title="Radio UK" radio="true",Classic Hits (UK)
 http://ample-07.radiojar.com:80/xgbg3anx3zquv
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="UK" radio="true",Classic FM
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="Radio UK" radio="true",Classic FM
 http://media-ice.musicradio.com:80/ClassicFMMP3
 
-#EXTINF:-1 tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="Argentina" radio="true",Metro 95.1
+#EXTINF:-1 tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="Radio Argentina" radio="true",Metro 95.1
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="Canada" radio="true",rockXradio
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="Radio Canada" radio="true",rockXradio
 http://158.69.227.214:8000/stream
 
-#EXTINF:-1 tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="Suiza" radio="true",Radio Swiss Classic
+#EXTINF:-1 tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="Radio Suiza" radio="true",Radio Swiss Classic
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="Italia" radio="true",Venice Classic Radio
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="Radio Italia" radio="true",Venice Classic Radio
 http://109.123.116.202:8020/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Hy67ki.png" group-title="Polonia" radio="true",Polskie Radio - Classic Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Hy67ki.png" group-title="Radio Polonia" radio="true",Polskie Radio - Classic Rock
 http://mp3.polskieradio.pl:8460
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="Turquia" radio="true",ITU Radio Rock
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="Radio Turquia" radio="true",ITU Radio Rock
 http://160.75.86.29:8088/stream/1/
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="Turquia" radio="true",ITU Radio Classical
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="Radio Turquia" radio="true",ITU Radio Classical
 http://160.75.86.29:8088/stream/5/
