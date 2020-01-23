@@ -1,5 +1,7 @@
 #EXTM3U
 
+### TV ###
+# News (EN)
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News (EN)",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -18,6 +20,7 @@ http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News (EN)",BBC News
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
 
+# News (ES)
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/DW-espanol.jpg" group-title="News (ES)",DW (ES)
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
@@ -606,53 +609,145 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/decd85f0-6e26-46f0-9fd8-0a1e656dfe9a-wpt_featured.jpg" group-title="Pluto TV",World Poker Tour
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="Pluto TV",XiveTV
-http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="Pluto TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
-#EXTINF:-1 tvg-logo="http://radio-service-information.api.bbci.co.uk/logos/bbc_world_service/1920x1080.png" group-title="Radio UK" radio="true",BBC World Service
+
+### RADIO ###
+# News
+#EXTINF:-1 tvg-logo="http://radio-service-information.api.bbci.co.uk/logos/bbc_world_service/1920x1080.png" group-title="News (Radio)" radio="true",BBC World Service (UK)
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="Radio UK" radio="true",BBC Radio 1
+# Talk
+#EXTINF:-1 tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="Talk (Radio)" radio="true",BBC Radio 1 (UK)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="Radio UK" radio="true",BBC Radio 2
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="Talk (Radio)" radio="true",BBC Radio 2 (UK)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="Radio UK" radio="true",BBC Radio 3
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-
-#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="Radio UK" radio="true",BBC Radio 4
+#EXTINF:-1 tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="Talk (Radio)" radio="true",BBC Radio 4 (UK)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b5/04/b504c34f126273c958da645d27fcbeda.jpg" group-title="Radio UK" radio="true",Absolute Radio - Classic Rock
-http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
-
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/593/5ca5f1810e511.png" group-title="Radio UK" radio="true",Classic Hits (UK)
-http://ample-07.radiojar.com:80/xgbg3anx3zquv
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="Radio UK" radio="true",Classic FM
-http://media-ice.musicradio.com:80/ClassicFMMP3
-
-#EXTINF:-1 tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="Radio Argentina" radio="true",Metro 95.1
+#EXTINF:-1 tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/object-images/08f43b6b9b5d89ea4d3f0e929a602f36.jpeg" group-title="Talk (Radio)" radio="true",Metro 95.1 (AR)
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="Radio Canada" radio="true",rockXradio
-http://158.69.227.214:8000/stream
+#EXTINF:-1 tvg-logo="https://media.npr.org/assets/img/2017/08/31/slingshot-kexp-logo_custom-4e7b19b35be2d50d262ba1a3f854285779344323-s800.jpg" group-title="Talk (Radio)" radio="true",KEXP (US)
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="Radio Suiza" radio="true",Radio Swiss Classic
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24573d.png" group-title="Talk (Radio)" radio="true",Reactor (MX)
+http://imer-edge1.cdnstream.com/1502_64
+
+#EXTINF:-1 tvg-logo="https://envivo.radioacktiva.com/build/assets/radioacktivacolombia/img/300x300.png" group-title="Talk (Radio)" radio="true",Radioacktiva (CO)
+https://18553.live.streamtheworld.com/RADIO_ACTIVAAAC.aac
+
+# Classical
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="Classical (Radio)" radio="true",BBC Radio 3 (UK)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="Classical (Radio)" radio="true",Classic FM (UK)
+http://media-ice.musicradio.com:80/ClassicFMMP3
+
+#EXTINF:-1 tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="Classical (Radio)" radio="true",Radio Swiss Classic (CH)
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="Radio Italia" radio="true",Venice Classic Radio
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/classical_1000.png" group-title="Classical (Radio)" radio="true",1.FM - Classical (CH)
+http://strm112.1.fm/classical_mobile_mp3?aw_0_req.gdpr=true
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95144q.png" group-title="Classical (Radio)" radio="true",Venice Classic Radio (IT)
 http://109.123.116.202:8020/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Hy67ki.png" group-title="Radio Polonia" radio="true",Polskie Radio - Classic Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Hy67ki.png" group-title="Classical (Radio)" radio="true",Polskie Radio - Classic Rock (PL)
 http://mp3.polskieradio.pl:8460
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="Radio Turquia" radio="true",ITU Radio Rock
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="Classical (Radio)" radio="true",ITU Radio Classical (TR)
+http://160.75.86.29:8088/stream/5/
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/baroque_1000.png" group-title="Classical (Radio)" radio="true",1.FM - Baroque (CH)
+http://strm112.1.fm/baroque_mobile_mp3?aw_0_req.gdpr=true
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5ts5hGTTjs.png" group-title="Classical (Radio)" radio="true",Nacional Clásica (AR)
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Radioclasicauy.png" group-title="Classical (Radio)" radio="true",Radio Clasica (UY)
+http://173.249.7.231:8076/stream
+
+#EXTINF:-1 tvg-logo="http://www.listenradios.com/en/wp-content/uploads/2016/04/Radio-Clasica.png" group-title="Classical (Radio)" radio="true",Radio Clásica (ES)
+http://radioclasica.rtveradio.cires21.com/radioclasica.mp3
+
+#EXTINF:-1 tvg-logo="https://www.br.de/ressourcen/bilder/programmfahne_mit_logo/br-klassik-wellenlogo100~_v-img__16__9__m_-4423061158a17f4152aef84861ed0243214ae6e7.png?version=6003e" group-title="Classical (Radio)" radio="true",BR-Klassik (DE)
+http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.ard-werbung.de/fileadmin/user_upload/radio/sender_und_kombis/bilder/sender_logo/Neue_Logos/Einzelsender/KR_Logo.png" group-title="Classical (Radio)" radio="true",Klassik Radio (DE)
+http://klassikr.streamabc.net/klassikradio-simulcast-mp3-hq?sABC=5q382p01#0#1q05595p2700p12pn1s7sp4o5qr68o2p#fgernz.xynffvxenqvb.qr&amp;amsparams=playerid:stream.klassikradio.de;skey:1563962369
+
+#EXTINF:-1 tvg-logo="https://select.klassikradio.de/thumbs/senderwelten/games/games-350x218.jpg" group-title="Classical (Radio)" radio="true",Klassik Radio Games (DE)
+https://klassikr.streamabc.net/klr-games-mp3-128-1540253?sABC=5r1s117q#0#8qo8n878r07s885rp3s355p710q0r345#zvdhvqb&amp;amsparams=playerid:miquido;skey:1579094397
+
+#EXTINF:-1 tvg-logo="https://www.klassikradio.de/images/MUSIC/FREECHANNELS/Movie_free.jpg" group-title="Classical (Radio)" radio="true",Klassik Radio Movie (DE)
+http://klassikr.streamabc.net/klr-movie-mp3-192-1910214?sABC=5q382p87#0#1q05595p2700p12pn1s7sp4o5qr68o2p#fgernz.xynffvxenqvb.qr&amp;amsparams=playerid:stream.klassikradio.de;skey:1563962503
+
+#EXTINF:-1 tvg-logo="https://www.klassikradio.de/images/MUSIC/FREECHANNELS/klassikdreams-free.jpeg" group-title="Classical (Radio)" radio="true",Klassik Radio Dreams (DE)
+https://klassikr.streamabc.net/klr-klassikdreams-mp3-128-7441635?sABC=5qn46459#0#oqq0n12647718104nqn16499n0540rq5#Zvdhvqb&amp;amsparams=playerid:Miquido;skey:1571054681
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s275270q.png" group-title="Classical (Radio)" radio="true",Clásica Mar del Plata (AR)
+http://server.ohradio.com.ar:9600/stream
+
+# Ambient
+#EXTINF:-1 tvg-logo="https://select.klassikradio.de/content/senderwelten/nature/nature.jpg" group-title="Ambient (Radio)" radio="true",Klassik Radio Nature (DE)
+http://klassikr.streamabc.net/klr-nature-mp3-192-6135585?sABC=5q382p90#0#1q05595p2700p12pn1s7sp4o5qr68o2p#fgernz.xynffvxenqvb.qr&amp;amsparams=playerid:stream.klassikradio.de;skey:1563962512
+
+# Classic Rock
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b5/04/b504c34f126273c958da645d27fcbeda.jpg" group-title="Classic Rock (Radio)" radio="true",Absolute Radio - Classic Rock (UK)
+http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
+
+#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/593/5ca5f1810e511.png" group-title="Classic Rock (Radio)" radio="true",Classic Hits (UK)
+http://ample-07.radiojar.com:80/xgbg3anx3zquv
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/rockclassics_1000.png" group-title="Classic Rock (Radio)" radio="true",1.FM - Rock Classics (CH)
+http://strm112.1.fm/rockclassics_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/crock_1000.png" group-title="Classic Rock (Radio)" radio="true",1.FM - Classic Rock Replay (CH)
+http://strm112.1.fm/crock_mobile_mp3
+
+# Metal
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="Metal (Radio)" radio="true",rockXradio (CA)
+http://158.69.227.214:8000/stream
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/highvoltage_1000.png" group-title="Metal (Radio)" radio="true",1.FM - High Voltage (CH)
+http://strm112.1.fm/highvoltage_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/wuEsugkpG6.jpg" group-title="Metal (Radio)" radio="true",RockFM - Metal (RU)
+https://jfm1.hostingradio.ru:14536/metal.mp3
+
+# Rock
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="Rock (Radio)" radio="true",ITU Radio Rock (TR)
 http://160.75.86.29:8088/stream/1/
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="Radio Turquia" radio="true",ITU Radio Classical
-http://160.75.86.29:8088/stream/5/
+#EXTINF:-1 tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/wuEsugkpG6.jpg" group-title="Rock (Radio)" radio="true",RockFM (RU)
+https://nashe1.hostingradio.ru:80/rock-128.mp3
+
+#EXTINF:-1 tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/wuEsugkpG6.jpg" group-title="Rock (Radio)" radio="true",RockFM - Rock 00 (RU)
+https://jfm1.hostingradio.ru:14536/rock00.mp3
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/x_1000.png" group-title="Rock (Radio)" radio="true",1.FM - Alternative Rock X Hits Radio (CH)
+http://strm112.1.fm/x_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://www.1.fm/content/images/stlogos/magic80_1000.png" group-title="Rock (Radio)" radio="true",1.FM - Magic 80 (CH)
+http://strm112.1.fm/magic80_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nacional_Rock_2016.png/1200px-Nacional_Rock_2016.png" group-title="Rock (Radio)" radio="true",Nacional Rock (AR)
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/e1fc5611041bbfa3803da7738a48a887.jpg" group-title="Rock (Radio)" radio="true",Futuro 88.9FM (CL)
+https://18493.live.streamtheworld.com/FUTUROAAC.aac
+
+# Psychedelic
+#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/b2/90/24455/c175.png" group-title="Psychedelic (Radio)" radio="true",Psychedelicized Radio (US)
+http://s1.castserver.net:8006
+
+# Progressive
+#EXTINF:-1 tvg-logo="https://www.morow.com/assets/img/cover.jpg" group-title="Progressive (Radio)" radio="true",MOROW (FR)
+http://stream.fr.morow.com:8080/morow_hi.aacp
+
+#EXTINF:-1 tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/wuEsugkpG6.jpg" group-title="Progressive (Radio)" radio="true",RockFM - Progressive (RU)
+https://jfm1.hostingradio.ru:14536/prog.mp3
